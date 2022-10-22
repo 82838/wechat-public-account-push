@@ -7,11 +7,11 @@
  */
 const USER_CONFIG = {
 
-  // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  // 使用微信测试号：公众号APP_IDhttps://github.com/wangxinleo/wechat-public-account-push/blob/master/config/index.cjs
+  APP_ID: 'wxcf889e21ac43f340',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '1568d5653b58fa49884339f3782f6d99',
 
   PROVINCE: '广东',
   CITY: '惠州',
